@@ -1,3 +1,2 @@
 # Gobel
-**Sistema
-###Administración Financiera en el sector Público 
+**Sistema Administración Financiera en el sector Público 
